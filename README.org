@@ -1,10 +1,10 @@
 * Spring 2022 - Lab 07
 
-* Last name:
+* Last name: Das
 
-* First name:
+* First name: Aurnab 
 
-* GitHub username:
+* GitHub username: aurnabdas
 
 * Notes:
 
