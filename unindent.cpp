@@ -21,12 +21,6 @@ std::string removeLeadingSpaces(std::string line)
         }
     }
     
- for (int j = ns; j != sl; j++)
-    {
-        result += line[j];
-    }
-
-    return result;
 
 
 }
