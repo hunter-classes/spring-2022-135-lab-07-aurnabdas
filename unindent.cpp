@@ -20,6 +20,15 @@ std::string removeLeadingSpaces(std::string line)
         break;
         }
     }
+    
+ for (int j = ns; j != sl; j++)
+    {
+        result += line[j];
+    }
 
+    return result;
+
+
+}
 
   
